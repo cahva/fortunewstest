@@ -1,0 +1,15 @@
+{
+  "name": "fortunewstest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fortune": "^5.5.17",
+    "fortune-http": "^1.2.25",
+    "fortune-ws": "^1.0.4",
+    "ws": "^6.1.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
